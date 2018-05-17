@@ -60,12 +60,12 @@ p {
   color:white;
 }
 
-#commentList button {
+#comments button {
   margin-left: 60%;
   color: #666;
 }
 
-#commentList button:hover {
+#comments button:hover {
   color: #27ae60;
 }
 
